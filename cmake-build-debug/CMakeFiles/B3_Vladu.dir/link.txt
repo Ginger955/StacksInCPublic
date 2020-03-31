@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/B3_Vladu.dir/main.c.o  -o B3_Vladu.exe -Wl,--out-implib,libB3_Vladu.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
